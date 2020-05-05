@@ -16,7 +16,7 @@
     ],
     "author": "fady shawky",
     "dependencies": {
-        "simple-markdown": "^0.1.2"
+        "simple-markdown": "^0.7.2"
     },
     "peerDependencies": {
         "react-native": "*"
