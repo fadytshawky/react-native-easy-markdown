@@ -1,0 +1,24 @@
+{
+    "name": "react-native-easy-markdown",
+    "version": "1.2.0",
+    "description": "Simple & customizable React Native component to render Github-flavoured markdown using minimal native components.",
+    "main": "index.js",
+    "repository": "https://github.com/lappalj4/react-native-easy-markdown",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native",
+        "native",
+        "markdown",
+        "parse",
+        "parser"
+    ],
+    "author": "fady shawky",
+    "dependencies": {
+        "simple-markdown": "^0.1.2"
+    },
+    "peerDependencies": {
+        "react-native": "*"
+    }
+}
